@@ -1,0 +1,3 @@
+food,200.0
+groceries,700.0
+outing,800.0
